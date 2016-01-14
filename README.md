@@ -1,2 +1,2 @@
-# docker-cirros
-Cirros OS from ewindisch/docker-cirros
+# Neovim-ipython
+Attempt at minimalist neovim and ipython implementation
