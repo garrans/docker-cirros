@@ -11,9 +11,6 @@ RUN zypper --non-interactive in --auto-agree-with-licenses python python-PyYAML
 RUN zypper --non-interactive in --auto-agree-with-licenses \
     python-Jinja2 python-httplib2 python-six
 
-RUN zypper --non-interactive in --auto-agree-with-licenses \
-    neovim
-
 RUN zypper --non-interactive in --auto-agree-with-licenses git
 
 
